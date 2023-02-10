@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Indie_Newz_React_app/static/css/main.073c9b0a.css",
+    "main.js": "/Indie_Newz_React_app/static/js/main.4475f980.js",
+    "static/js/787.efa014cd.chunk.js": "/Indie_Newz_React_app/static/js/787.efa014cd.chunk.js",
+    "index.html": "/Indie_Newz_React_app/index.html",
+    "main.073c9b0a.css.map": "/Indie_Newz_React_app/static/css/main.073c9b0a.css.map",
+    "main.4475f980.js.map": "/Indie_Newz_React_app/static/js/main.4475f980.js.map",
+    "787.efa014cd.chunk.js.map": "/Indie_Newz_React_app/static/js/787.efa014cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4475f980.js"
+  ]
+}
